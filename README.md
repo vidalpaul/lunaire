@@ -1,0 +1,1 @@
+DotSama wallets with support for Moonbeam and Moonriver smart contracts calling.
