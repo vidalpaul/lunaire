@@ -8,9 +8,9 @@ edition = "2021"
 [dependencies]
 clap = "3.2.22"
 dotvanity = "1.0.0"
+jsonrpsee-ws-client="0.15.1"
 
 [dev-dependencies]
 assert_cmd = "2.0.4"
 predicates = "2.1.1"
 rand = "0.8.5"
-jsonrpsee-ws-client="0.15.1
